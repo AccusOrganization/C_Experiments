@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  CPractice2.cpp
+d:\1. programming\2.c practice\project 1\cpractice2\cpractice2\cpractice2.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CPractice2.vcxproj -> D:\1. Programming\2.C Practice\Project 1\CPractice2\Debug\CPractice2.exe

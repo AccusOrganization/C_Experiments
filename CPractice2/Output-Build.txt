@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: CPractice2, Configuration: Debug Win32 ------
+1>stdafx.cpp
+1>CPractice2.cpp
+1>d:\1. programming\2.c practice\project 1\cpractice2\cpractice2\cpractice2.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+1>CPractice2.vcxproj -> D:\1. Programming\2.C Practice\Project 1\CPractice2\Debug\CPractice2.exe
+1>Done building project "CPractice2.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
